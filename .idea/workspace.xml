@@ -13,9 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86450c98-6479-4821-b343-78320f600810" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kunming/oppo1/testbranch/helloworld.html" afterDir="false" />
-    </list>
+    <list default="true" id="86450c98-6479-4821-b343-78320f600810" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,6 +93,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Oppo1Application" />
+        <item itemvalue="Application.Oppo1Application" />
+        <item itemvalue="Application.Oppo1Application" />
+        <item itemvalue="Application.Oppo1Application" />
         <item itemvalue="Application.Oppo1Application" />
       </list>
     </recent_temporary>
