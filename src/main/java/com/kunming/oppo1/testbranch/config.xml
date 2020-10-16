@@ -2,6 +2,7 @@
 <root>
     <part id="aaa">
         <name>dev</name>
+        <anidsadsa>22222222222222222222222222222222</anidsadsa>
     </part>
     <part id="bbb">
         <name>"dev_01"</name>
