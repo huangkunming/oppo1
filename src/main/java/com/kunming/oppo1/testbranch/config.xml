@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <part id="aaa">
+        <name>dev</name>
+    </part>
+    <part id="bbb">
+        <name>"dev_01"</name>
+    </part>
+    <part id="ccc">
+        <name>dev_02</name>
+    </part>
+
+</root>
